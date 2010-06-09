@@ -1,4 +1,5 @@
 #summary A guide on how to use JAWS
+#labels Featured,Phase-Implementation
 
 = Table of contents =
 <wiki:toc max_depth="3" />
