@@ -25,7 +25,7 @@
 		 * @param	methodName The method called
 		 * @return
 		 */
-		public function decode(xml:XML, decleration:XML, methodName:String):*
+		internal function decode(xml:XML, decleration:XML, methodName:String):*
 		{
 			var soap:Namespace	= xml.namespace("soap");
 			var body:XMLList	= xml.soap::Body;
